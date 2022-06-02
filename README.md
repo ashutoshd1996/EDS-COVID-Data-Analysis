@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-eds_covid_19_data_analysis
+Enterprise Data Science COVID 19 Data Analysis
 ==============================
 
 Applied Data Science on covid-19 data
